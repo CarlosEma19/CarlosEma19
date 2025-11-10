@@ -10,8 +10,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CarlosEma19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=CarlosEma19&theme=dark&hide_border=false" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CarlosEma19&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=CarlosEma19&theme=dark&hide_border=false" />
 </div>
 
 <div align="center">
