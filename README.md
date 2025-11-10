@@ -1,13 +1,15 @@
 <h1 align="center">👋 Hey, I'm Cadu!</h1>
-<h3 align="center">Full-Stack Developer in training | Passionate about technology and design</h3>
+<h3 align="center">Front-End Developer | IT Support | Tech Enthusiast</h3>
 
 ---
 
 ### 💜 About Me  
-I'm currently studying **Systems Analysis and Development**, and I've already completed courses in **Web Development** and **IT Support** at the *Instituto da Oportunidade Social (IOS)*.  
-I'm also working as an **intern at FutureBrand**, part of the **Timelens** ecosystem — learning more every day about **digital marketing**, **branding**, and **data-driven insights**.  
+I'm currently pursuing a degree in **Systems Analysis and Development** and have completed professional courses in **Web Development** and **IT Support** at the *Instituto da Oportunidade Social (IOS)*.  
 
-Curious, creative, and passionate about turning ideas into solutions — whether through code, design, or storytelling.
+I previously worked at **FutureBrand** as a **Front-End Developer**, where I focused on creating clean, responsive, and accessible interfaces.  
+Currently, I’m part of the **IT Support team** at **Centro Universitário São Camilo**, helping maintain technical infrastructure and providing support for staff and students.  
+
+I’m passionate about learning, solving problems, and turning ideas into digital experiences through code and creativity.
 
 ---
 
@@ -33,13 +35,13 @@ Curious, creative, and passionate about turning ideas into solutions — whether
 ### 🚀 Featured Projects  
 
 💻 [**Next.js + Tailwind Landing Page**](#)  
-Modular and responsive landing page built with performance and clean design in mind.  
+Modular and responsive landing page built with performance and accessibility in mind.  
 
 🐾 [**Veterinary Disease Prediction (Machine Learning)**](#)  
-In progress — AI model to predict pet diseases based on clinical data.  
+A predictive model to identify pet diseases using clinical data and pattern recognition.  
 
 📂 [**Library Management System in C**](#)  
-Simple CLI-based library system using file manipulation.
+Command-line program for managing users and books using file handling and structured logic.
 
 ---
 
@@ -77,4 +79,4 @@ Simple CLI-based library system using file manipulation.
 
 ---
 
-<p align="center">⚡ “Coding is just like casting magic — logic and creativity combined.” ⚡</p>
+<p align="center">⚡ “Coding feels like casting magic — where logic meets creativity.” ⚡</p>
